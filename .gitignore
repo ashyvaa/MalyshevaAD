@@ -1,0 +1,41 @@
+# Библиотеки
+node_modules/
+vendor/
+*.dll
+*.so
+*.a
+
+# Бинарные файлы
+*.exe
+*.bin
+*.class
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+
+*.vsidx
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.json
+*.ipch
+*.sln
+*.vcxproj
+*.obj
+*.ilk
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.filters
+*.user
+*.recipe
